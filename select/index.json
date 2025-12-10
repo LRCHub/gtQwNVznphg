@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "カーニバル",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-10T08:01:38.566405Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カーニバル",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_カーニバル_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "し・あ・わ・せ カーニバル (愛少女ポリアンナ物語)",
+      "artist": "工藤夕貴",
+      "has_synced": true,
+      "path": "select/02_し・あ・わ・せ_カーニバル_(愛少女ポリアンナ物語)_工藤夕貴.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "し・あ・わ・せ カーニバル",
+      "artist": "工藤夕貴",
+      "has_synced": true,
+      "path": "select/03_し・あ・わ・せ_カーニバル_工藤夕貴.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イースター・カーニバル",
+      "artist": "Switch/逆先夏目(CV.野島健児)、青葉つむぎ(CV.石川界人)、春川宙(CV.山本和臣)",
+      "has_synced": false,
+      "path": "select/04_イースター・カーニバル_Switch_逆先夏目(CV.野島健児)、青葉つむぎ(CV.石川界人)、春川宙(CV.山本和臣).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カーニバル",
+      "artist": "パスピエ",
+      "has_synced": true,
+      "path": "select/05_カーニバル_パスピエ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "M's カーニバル",
+      "artist": "今井麻美",
+      "has_synced": false,
+      "path": "select/06_M's_カーニバル_今井麻美.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カーニバル - Carnival",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/07_カーニバル_-_Carnival_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "謝肉祭－カーニバル－",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/08_謝肉祭-カーニバル-_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カーニバル",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/09_カーニバル_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カーニバル",
+      "artist": "otetsu feat. 赤飯",
+      "has_synced": false,
+      "path": "select/10_カーニバル_otetsu_feat._赤飯.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "謝肉祭 -カーニバル-",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/11_謝肉祭_-カーニバル-_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カーニバル",
+      "artist": "灯油",
+      "has_synced": true,
+      "path": "select/12_カーニバル_灯油.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ファンタジスタ・カーニバル",
+      "artist": "島原エレナ(CV.角元明日香)",
+      "has_synced": false,
+      "path": "select/13_ファンタジスタ・カーニバル_島原エレナ(CV.角元明日香).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "謝肉祭-カーニバル-",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/14_謝肉祭-カーニバル-_BUCK-TICK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カーニバル",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_カーニバル_Vaundy.txt"
+    }
+  ]
+}
